@@ -1,0 +1,14 @@
+[
+    [1, "Tomato", 1, "kg", "Vegetables", "Fresh Tomatoes"],
+    [2, "Onion", 1, "kg", "Vegetables", "Big in size"],
+    [3, "Potato", 1, "kg", "Vegetables", "Medium size potatoes"],
+    [4, "Apple", 2, "kg", "Fruits", "Green Apples"],
+    [5, "Grapes", 2, "kg", "Fruits", "Seedless Grapes"],
+    [6, "Coconut Oil", 1, "l", "Oils and Minerals", "Bottle packed"],
+    [7, "Milk", 2, "l", "Dairy", "Pasteurized milk"],
+    [8, "Wheat Powder", 1, "kg", "Cereals", "Ashirvad Brand"],
+    [9, "Sugar", 2, "kg", "Dry Goods", "Two 1kg packets"],
+    [10, "Soap", 1, "No.", "Personal Care", "Washing Soap"]
+
+]
+   
